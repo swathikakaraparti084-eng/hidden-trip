@@ -1,0 +1,50 @@
+region,id,name,type,km,price,time,popularity,uniqueness,description
+hampi,F1,Virupaksha Temple,famous,0,50,Early morning,10,7,Living 7th-century temple in Hampi Bazaar
+hampi,F2,Vittala Temple & Stone Chariot,famous,3,600,Before 9am,10,8,Most photographed monument; packed by midday
+hampi,F3,Lotus Mahal & Royal Enclosure,famous,2,600,Late afternoon,9,6,Iconic Indo-Islamic palace architecture
+hampi,H1,Anegundi Village Walk,village,5,0,Morning,4,8,Quiet village with old stone houses
+hampi,H2,Banana-Fibre Craft Workshop Anegundi,artisan,5,300,10am-4pm,2,8,Women artisans make bags from banana fibre; buy direct
+hampi,H3,Anegundi Family Homestay,homestay,5,1500,Evening stay,2,8,Stay with a local family; breakfast included
+hampi,H4,Home-Cooked Village Meal Anegundi,food,5,250,Lunch,1,8,Traditional North Karnataka meal by a local family
+hampi,H5,Malyavanta Raghunatha Temple,temple,3,0,Sunrise,3,8,Hilltop temple with sunrise views and few visitors
+hampi,H6,Pampa Sarovar,temple,6,0,Morning,3,7,Sacred lake and shrine linked to the Ramayana
+hampi,H7,Anjanadri Hill,temple,8,50,Sunrise/Sunset,5,8,Hill temple with ~570 steps and wide boulder views
+hampi,H8,Sanapur Lake & Coracle Ride,nature,8,150,Late afternoon,5,7,Round coracle boats run by local boatmen
+hampi,H9,Daroji Sloth Bear Sanctuary,nature,15,200,3pm-6pm,3,8,Spot sloth bears from a watchtower
+hampi,H10,Banana & Jaggery Farm Walk Kamalapura,village,4,200,Morning,1,7,Farm walk and jaggery-making demo
+hampi,H11,Local Guide (Hidden Trails),guide,0,800,Full day,2,7,Local guide who knows quiet spots and timings
+jaipur,F1,Amber Fort,famous,11,500,Opening time,10,8,Hilltop palace-fort; crowded by noon
+jaipur,F2,Hawa Mahal,famous,1,200,Early morning,10,6,Iconic pink honeycomb facade
+jaipur,F3,City Palace,famous,1,700,Late afternoon,9,7,Royal palace and museum
+jaipur,H1,Sanganer Block-Printing Workshop,artisan,16,300,10am-4pm,2,8,Try hand block printing with family workshops
+jaipur,H2,Bagru Printing Village Visit,village,35,400,Morning,1,9,Natural-dye printing village and quiet craft cluster
+jaipur,H3,Blue Pottery Studio,artisan,12,250,Daytime,2,8,Glazed blue pottery made by local artists
+jaipur,H4,Galta Ji Temple,temple,10,50,Sunrise,4,8,Hill-valley temple complex with natural springs
+jaipur,H5,Jhalana Leopard Reserve,nature,8,1000,Dawn/Dusk,3,8,Safari close to the city with leopard sightings
+jaipur,H6,Home-Cooked Rajasthani Meal,food,10,350,Lunch,1,8,Dal baati churma cooked by a local family
+jaipur,H7,Kanak Vrindavan Temple,temple,9,0,Evening,3,7,Quiet garden temple below the Amer hills
+jaipur,H8,Family Homestay Sanganer,homestay,16,1800,Evening stay,2,8,Stay with a craft family; breakfast included
+jaipur,H9,Local Guide (Hidden Jaipur),guide,0,800,Full day,2,7,Guide for lesser-known lanes and timings
+mysuru,F1,Mysore Palace,famous,1,100,Opening time,10,8,Grand royal palace; very crowded on weekends
+mysuru,F2,Chamundi Hill Temple,famous,13,100,Early morning,9,6,Hilltop temple with city views
+mysuru,F3,Brindavan Gardens,famous,20,100,Evening,9,5,Terraced garden and musical fountain
+mysuru,H1,Somanathapura Chennakesava Temple,temple,35,50,Morning,3,9,Detailed Hoysala temple with few crowds
+mysuru,H2,Rosewood Inlay Workshop,artisan,5,200,Daytime,2,8,Craftsmen inlay rosewood; buy direct
+mysuru,H3,Channapatna Toy Village,artisan,60,300,Morning,2,8,Lacquerware toys made in family workshops
+mysuru,H4,Ranganathittu Bird Sanctuary,nature,20,300,Morning,5,7,Boat ride among nesting birds
+mysuru,H5,Devaraja Market Food Walk,food,2,400,Morning,3,7,Local-led walk through flowers and spices and snacks
+mysuru,H6,Village Farm Walk Outskirts,village,15,250,Morning,1,7,Silk and coconut and sugarcane farms with a farmer host
+mysuru,H7,Talakadu Sand Temples,temple,45,50,Morning,3,8,Ancient temples half buried in river sand
+mysuru,H8,Family Homestay near Chamundi Foothills,homestay,6,1800,Evening stay,2,7,Local family stay with home-cooked meals
+mysuru,H9,Local Guide (Hidden Mysuru),guide,0,800,Full day,2,7,Guide for offbeat temples and crafts
+varanasi,F1,Dashashwamedh Ghat,famous,1,0,Sunrise,10,7,Main ghat; evening aarti is very crowded
+varanasi,F2,Kashi Vishwanath Temple,famous,1,0,Before 7am,10,8,Most visited temple with long queues
+varanasi,F3,Sarnath,famous,10,300,Morning,8,7,Buddhist site of the first sermon
+varanasi,H1,Banarasi Silk Weaver Workshop,artisan,4,400,10am-4pm,2,9,Watch handloom weaving at a family workshop
+varanasi,H2,Kabir Chaura Math,temple,3,0,Morning,2,8,Heritage monastery of poet Kabir; quiet and peaceful
+varanasi,H3,Sunrise Boat from Ramnagar Side,nature,4,300,Sunrise,4,7,View the ghats from the quiet river bank
+varanasi,H4,Kachori-Lassi Lane Food Walk,food,2,400,Breakfast,3,8,Local-led walk through old city food lanes
+varanasi,H5,Weavers Lane Walk Lallapura,village,5,250,Morning,1,8,Walk through weaver neighbourhoods and tea stalls
+varanasi,H6,Bharat Mata Temple,temple,5,0,Daytime,2,7,Temple with a marble relief map of India
+varanasi,H7,Family Guesthouse near Assi,homestay,2,1500,Evening stay,3,6,Family-run stay with home-cooked breakfast
+varanasi,H8,Local Guide (Hidden Kashi),guide,0,800,Full day,2,7,Guide for old-city lanes and timings
